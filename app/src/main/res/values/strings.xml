@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleMvpApp</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="forget_password">Forgot Password</string>
+
+
+    <string name="error_username">Username cannot be blank</string>
+    <string name="error_password">Password cannot be blank</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
