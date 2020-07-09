@@ -1,6 +1,10 @@
 # android-mvp-kotlin-sample-app
 This Project is mainly focused on implementing MVP Pattern in Android with Kotlin.
 
+# MVP Architecture
+
+<img src="https://user-images.githubusercontent.com/68017899/87062251-71b00f00-c22a-11ea-8652-547397dcc4e4.png" width="1920" height="500">
+
 The repository contains simple Login screen and Main screen with the following learnings.
 
 Koin is used in this project as dependency injection you could finde mode about koin here https://github.com/InsertKoinIO/koin
