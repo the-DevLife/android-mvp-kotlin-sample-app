@@ -3,7 +3,7 @@ This Project is mainly focused on implementing MVP Pattern in Android with Kotli
 
 # MVP Architecture
 
-<img src="https://user-images.githubusercontent.com/68017899/87062251-71b00f00-c22a-11ea-8652-547397dcc4e4.png" width="1920" height="500">
+<img src="https://user-images.githubusercontent.com/68017899/87242808-ddbe8d00-c44d-11ea-8bd7-e57142b5f767.png" width="1920" height="500">
 
 The repository contains simple Login screen and Main screen.
 
